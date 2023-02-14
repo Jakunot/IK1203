@@ -12,4 +12,4 @@ The focus of the course is on the protocols and algorithms used, and we will fol
 <div align="center">
  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
  </div>
-<p style = "text-align:center"><samp>Socket programming, learn how to build client/server application that communicate using sockets</samp></p>
+<p style = "text-align:center"><samp>Socket programming, learn how to build client/server application that communicate using sockets using Java.</samp></p>
